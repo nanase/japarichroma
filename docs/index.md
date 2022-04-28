@@ -17,7 +17,7 @@ subpages:
 
 ## 特徴
 
-JapariChroma は手のひらサイズのフルカラー LED 投光器機です。高輝度 LED 搭載で様々な色を発光できます。
+JapariChroma は手のひらサイズのフルカラー LED 投光器です。高輝度 LED 搭載で様々な色を発光できます。
 
 <table class="borderless-table no-image-border less-padding foot-note text-center center-table" style="max-width: 600px">
   <tbody>
@@ -118,7 +118,7 @@ JapariChroma は手のひらサイズのフルカラー LED 投光器機です�
     </tr>
     <tr>
       <th>質量</th>
-      <td>約 23 g</td>
+      <td>約 21 g</td>
     </tr>
   </tbody>
 </table>
